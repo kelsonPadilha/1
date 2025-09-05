@@ -1,0 +1,16 @@
+# include <stdio.c>
+
+int main (){
+
+int estoque = 3;
+
+
+if(estoque <5){
+    printf("estoque baixo");
+
+}
+
+
+
+return;
+}
