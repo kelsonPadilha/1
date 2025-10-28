@@ -13,7 +13,7 @@ int main(){
     scanf("%f &umidade");
 
     printf("digite o estoque\n");
-    scanf("%d, &estoque");
+    scanf("%u, &estoque");
 
     if(temperatura > 30){
     printf(" a temperatura esta alta\n");
