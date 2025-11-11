@@ -36,7 +36,7 @@ int main (){
 
     case 3:
     printf("Opção invalida. Tente novamente\n");
-
+    
     }
 
 return;
